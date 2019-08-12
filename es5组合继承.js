@@ -1,4 +1,4 @@
-//  1. 继承属性 call apply  
+﻿//  1. 继承属性 call apply  
 
 //  2. 继承函数 
 
@@ -30,4 +30,4 @@ ZS.prototype = new Person()
 const zs = new ZS('zs', 18)
 
 console.log(zs.name)
-zs.say()
+zs.say()...........
